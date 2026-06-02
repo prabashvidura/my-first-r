@@ -1,9 +1,6 @@
-# my-first-r
+## What I Learned Today
 
-# My First Repository
-A beginner Girhub project
-created during the workshop
+I am currently attending a GitHUB workshop
+Today I learned about:- Version control - Creating a repository - The edit-commit-push cycle
 
-## About me
-My name is **Vidura**
-I am learning Github
+My GitHub profile: https://github.com/prabashvidura
